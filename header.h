@@ -1,0 +1,16 @@
+void clearScreen();
+void menu();
+void cesar();
+int clef();
+char *clefCipher();
+void chiffrementCesar();
+void deChiffrementCesar();
+void encryptCesar(char *, int);
+void decryptCesar(char *, int);
+void vigenere();
+void chiffrementVigenere();
+void dechiffrementVigenere();
+void encryptVigenere(char *, char *, char *);
+void decryptVigenere(char *, char *, char *);
+int isAlpha(char);
+void myPause();
